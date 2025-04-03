@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Felipe Bedin, sou um programador Front End e atualmente estou aprendendo e criando projetos com:
+Me chamo Felipe Bedin, sou programador Front End e atualmente estou aprendendo e criando projetos com:
 
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
 
