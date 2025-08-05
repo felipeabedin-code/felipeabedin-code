@@ -9,7 +9,8 @@ Me chamo Felipe Bedin, sou programador Front End, busco aperfeiçoamento em Inte
 E estou avançando em linguagens de programação, como: 
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
 
-- <img src="https://example.com/caminho/para/logo-python.png" />
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 
 
 
